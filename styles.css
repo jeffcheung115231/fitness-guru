@@ -62,4 +62,11 @@ section {
 }
 
 section:hover {
-    transform: scale(1.
+    transform: scale(1.02);
+}
+
+.responsive {
+    max-width: 100%;
+    height: auto;
+    margin: 20px 0;
+}
